@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1539470713 "3F1.tex" "3F1.pdf" "3F1" 1539470714
+["pdflatex"] 1539470713 "3F1.tex" "3F1.pdf" "3F1" 1539471211
   "/dev/null" 1539468907 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1536122179 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1536122179 1004 54797486969f23fa377b128694d548df ""
@@ -111,6 +111,6 @@
   "wind_up.png" 1539470140 18972 5581ff6283a3fdd41f982f9521a03a4e ""
   "wind_up_fixed.png" 1539470397 16374 395f046311e2aa0892a1d455e70009af ""
   (generated)
-  "3F1.aux"
   "3F1.log"
   "3F1.pdf"
+  "3F1.aux"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.9.13)  7 OCT 2018 15:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.9.13)  13 OCT 2018 23:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -756,12 +756,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--107
 
  []
 
-<task_2.png, id=18, 952.30782pt x 356.83313pt>
+[2 <./task_1_2.png (PNG copy)>]
+<task_2.png, id=27, 952.30782pt x 356.83313pt>
 File: task_2.png Graphic file (type png)
 <use task_2.png>
 Package pdftex.def Info: task_2.png  used on input line 110.
 (pdftex.def)             Requested size: 422.77664pt x 158.41727pt.
-[2 <./task_1_2.png (PNG copy)>]
 <task_4.png, id=28, 660.21657pt x 299.61937pt>
 File: task_4.png Graphic file (type png)
 <use task_4.png>
@@ -776,13 +776,13 @@ Package pdftex.def Info: task_6.png  used on input line 142.
 Here is how much of TeX's memory you used:
  16293 strings out of 492642
  291332 string characters out of 6135566
- 532321 words of memory out of 5000000
+ 533321 words of memory out of 5000000
  20058 multiletter control sequences out of 15000+600000
  535249 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,8n,63p,876b,290s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,8n,63p,882b,290s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 3F3.pdf (5 pages, 288481 bytes).
+Output written on 3F3.pdf (5 pages, 288777 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
