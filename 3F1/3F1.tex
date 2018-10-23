@@ -141,7 +141,7 @@ Where $\omega$ is the frequency at which the gain is $0dB$. Figure \ref{fig:nyqu
 	\caption{Manual control responses}
 \end{figure}
 
-The basic aaircraft model is given a step disturbance of magnitude 5, a typical step response of manual control is depicted in figure \ref{fig:step_manual}, we can see that integral is used, since there is a near constant gradient in the gain, this is to compensate for the fact that the error signal does not decrease as quickly enough (since it is a step instead of an impulse disturbance).
+The basic aircraft model is given a step disturbance of magnitude 5, a typical step response of manual control is depicted in figure \ref{fig:step_manual}, we can see that integral is used, since there is a near constant gradient in the gain, this is to compensate for the fact that the error signal does not decrease as quickly enough (since it is a step instead of an impulse disturbance).
 
 \begin{figure}
 \centering
@@ -289,7 +289,7 @@ In our case following $T_c$ (time period of proportional feedback induced oscill
 
 
 \section{Integrator Wind-Up}
-When the disturbance is set to a high impulse, a phenomena called the integrator wind-up is observed, this can cause unwanted overshoot/undershoot after a period of input saturation due to the integrator being 'wound up' and having to unload again. One simple corrective method is to set a limit on the integrator. Figure \ref{fig:wind} shows this issue, note how it takes the controller several large swings to stabalise the aircraft. Figure \ref{fig:wind_fixed} shows the outcome of setting a threshold of the integrator.
+When the disturbance is set to a high impulse, a phenomena called the integrator wind-up is observed, this can cause unwanted overshoot/undershoot after a period of input saturation due to the integrator being 'wound up' and having to unload again. One simple corrective method is to set a limit on the integrator. Figure \ref{fig:wind} shows this issue, note how it takes the controller several large swings to stabalise the aircraft. Figure \ref{fig:wind_fixed} shows the outcome of setting a threshold of the integrator. Following the code given, the smallest number which guarantees a zero steady-state error in response to a step disturbance of weight 2 is $0.1$.
 
 \begin{figure}[htp]
 \centering
@@ -311,29 +311,55 @@ When the disturbance is set to a high impulse, a phenomena called the integrator
 \section{Appendix: MATLAB Code}
 Code below is from the \textit{flysim1.m} file:
 \begin{lstlisting}
-\begin{lstlisting}
-void analyse_plant(){
-mean = accumulate(plant_array.begin(), plant_array.end(),
-0.0/ plant_array.size());
-plant_size = plant_array.size();
-mean = mean/plant_size;
-int port1 = get_input(READ_PORT_1);
-if (plant_size<10){
-	destroy();
-	cout << "Noise" << endl;
-	return;
-	}
-else if (plant_size <= SizeThreshold && mean > TypeThreshold ){
-	cout << "Undersized Cabbage" << endl;
-	rlink.command(WRITE_PORT_1, (port1 & 0x8F) | 0x40);
-	}
-	....
-mean=0;
-plant_array.clear();
-plant_size = 0;
-\end{lstlisting}
-\end{lstlisting}
+num=[6.3 4.3 0.28];
+den=[1 11.2 19.6 16.2 0.91 0.27];
 
+runtime=15;
+wght=[0,1,5,0.66];
 
+samper=30;
+
+srate=(samper+1.3)/1000;
+
+grphc1
+
+integ=0;deriv=0;yprev=0;
+Kp=10.2*1.7; Ti=0.98; Td=0.4;
+for i=1:count
+	set(hh,'Xdata',hx,'Ydata',hy+y*hz);
+    integ = integ+0.5*(y+yprev)*srate;
+    integ=sign(integ)*min(abs(integ),0.10);
+    deriv=(y-yprev)/srate;
+    pp=-Kp*(y+integ/Ti+deriv*Td);
+    yprev=y;
+	pp=sign(pp)*min(max(0,abs(pp)-0.0),10);
+
+	set(jh,'Xdata',jx,'Ydata',jy+pp*jz);
+	drawnow;
+
+	ylist(i)=y;
+	ulist(i)=pp;
+
+	x=adis*x + bdis*(pp+disturb(i));
+	y=cdis*x + ddis*(pp+disturb(i));
+
+	while (time2-time1<samper)
+		time2=clock;time2=1000*(60*time2(5)+time2(6));
+	end
+	thetimes(i)=time2;
+	time1=time2;
+
+	if (y<-10 | y>10 )
+		flg=1;crashind=i+1;
+		thetimes(i+1)=thetimes(i)+samper;
+		ylist(i+1)=y;
+		ulist(i+1)=sign(p(1,2))*min(abs(p(1,2)),10);
+		break;
+	end
+
+end
+
+grphc2
+\end{lstlisting}
 
 \end{document}

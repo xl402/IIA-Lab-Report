@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.9.13)  13 OCT 2018 23:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.9.13)  23 OCT 2018 22:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -859,67 +859,24 @@ File: wind_up_fixed.png Graphic file (type png)
 <use wind_up_fixed.png>
 Package pdftex.def Info: wind_up_fixed.png  used on input line 304.
 (pdftex.def)             Requested size: 211.3883pt x 178.84444pt.
-
-
-./3F1.tex:335: Undefined control sequence.
-\lstlisting ->\def \lstenv@name 
-                                {lstlisting}\begingroup \lst@setcatcodes \ca...
-l.335 \end{lstlisting}
-                      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./3F1.tex:335: Package Listings Error: Extra \endlstlisting.
-
-See the Listings package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.335 \end{lstlisting}
-                      
-I'm ignoring this, since I wasn't doing a \def {lstlisting}\begingroup \catcode `\spacefactor \@m {}11\relax \catcode `\==12\relax \catcode \active =\active \lstlisting@.
-
-
-./3F1.tex:335: LaTeX Error: \begin{document} ended by \end{lstlisting}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.335 \end{lstlisting}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./3F1.tex:335: Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.335 \end{lstlisting}
-                      
-Things are pretty mixed up, but I think the worst is over.
-
-[8 <./wind_up.png (PNG copy)> <./wind_up_fixed.png (PNG copy)>] (./3F1.aux)
+ [8 <./wind_up.png (PNG copy)> <./wind_up_fixed.png (PNG copy)>] [9] (./3F1.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 17248 strings out of 492642
- 303048 string characters out of 6135566
- 539321 words of memory out of 5000000
- 20996 multiletter control sequences out of 15000+600000
+ 17264 strings out of 492642
+ 303094 string characters out of 6135566
+ 540321 words of memory out of 5000000
+ 21012 multiletter control sequences out of 15000+600000
  536024 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,9n,63p,1157b,1562s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,9n,63p,1157b,2103s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on 3F1.pdf (9 pages, 663196 bytes).
+Output written on 3F1.pdf (10 pages, 663993 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
+ 114 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  96 words of extra memory for PDF output out of 10000 (max. 10000000)
 

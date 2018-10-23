@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1539470713 "3F1.tex" "3F1.pdf" "3F1" 1539471211
-  "/dev/null" 1539468907 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1540329206 "3F1.tex" "3F1.pdf" "3F1" 1540329207
+  "/dev/null" 1539622224 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1536122179 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1536122179 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1536122179 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -99,8 +99,8 @@
   "2_4_F4E_Model_4_Bode.png" 1539446808 53103 6d068085c26bebdee5104aee925a40eb ""
   "2_5_unstable_aircraft_response.png" 1539170648 19234 52ff948d1311535b9297792d4fb3b10d ""
   "2_PIO_Bode_Plot.png" 1539444331 50025 e2e2b5b5774514f608ae27c7200fd1ad ""
-  "3F1.aux" 1539470713 3461 5fc72736b1dc58d1aec141ceb203923f ""
-  "3F1.tex" 1539470712 16118 5119f10d748e90c2997b0f6fd5e54be5 ""
+  "3F1.aux" 1540329207 3461 5fc72736b1dc58d1aec141ceb203923f ""
+  "3F1.tex" 1540329206 16614 6bd35f4f33a58196e56aea74c502ef9d ""
   "3_1_phygoid_Model_no_input.png" 1539171002 15589 8a4ea8ebb77b39cac290ff31c6e0d629 ""
   "3_2_autopilot.png" 1539172038 22858 23101a2328ed015d6d1596b45c6511da ""
   "PID_control_40percent.png" 1539470044 15196 b1ed52081c5ac8298dc04a9965dd784c ""
@@ -111,6 +111,6 @@
   "wind_up.png" 1539470140 18972 5581ff6283a3fdd41f982f9521a03a4e ""
   "wind_up_fixed.png" 1539470397 16374 395f046311e2aa0892a1d455e70009af ""
   (generated)
-  "3F1.log"
   "3F1.pdf"
+  "3F1.log"
   "3F1.aux"
