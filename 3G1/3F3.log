@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.19)  2 NOV 2018 13:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.19)  2 NOV 2018 13:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**3F1.tex
-(./3F1.tex
+**3F3.tex
+(./3F3.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
@@ -803,8 +803,8 @@ Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
 \mult@nat@firstbox=\box71
 \colbreak@box=\box72
 \mc@col@check@num=\count174
-) (./3F1.aux)
-\openout1 = `3F1.aux'.
+) (./3F3.aux)
+\openout1 = `3F3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
@@ -911,142 +911,23 @@ Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count181
  [1
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] <block_diagram.png, id=9, 1280.785pt x 412.54124pt>
-File: block_diagram.png Graphic file (type png)
- <use block_diagram.png>
-Package pdftex.def Info: block_diagram.png used on input line 65.
-(pdftex.def)             Requested size: 422.77664pt x 136.1705pt.
- <1_manual_control_input_disturbance.png, id=11, 451.6875pt x 376.40625pt>
-File: 1_manual_control_input_disturbance.png Graphic file (type png)
- <use 1_manual_control_input_disturbance.png>
-Package pdftex.def Info: 1_manual_control_input_disturbance.png used on input line 93.
-(pdftex.def)             Requested size: 258.36668pt x 215.31767pt.
-
-Overfull \hbox (23.48918pt too wide) in paragraph at lines 93--94
- [][] 
- []
-
-<1_1_Plant_Bode_Manual_Control.png, id=12, 621.07031pt x 526.21594pt>
-File: 1_1_Plant_Bode_Manual_Control.png Graphic file (type png)
- <use 1_1_Plant_Bode_Manual_Control.png>
-Package pdftex.def Info: 1_1_Plant_Bode_Manual_Control.png used on input line 99.
-(pdftex.def)             Requested size: 258.36668pt x 218.90549pt.
-
-Overfull \hbox (23.48918pt too wide) in paragraph at lines 99--100
- [][] 
- []
-
-[1
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [1
 
 
- <./block_diagram.png>] [2 <./1_manual_control_input_disturbance.png (PNG copy)> <./1_1_Plant_Bode_Manual_Control.png (PNG copy)>] <nyquist_manual.png, id=26, 562.35094pt x 475.7775pt>
-File: nyquist_manual.png Graphic file (type png)
- <use nyquist_manual.png>
-Package pdftex.def Info: nyquist_manual.png used on input line 131.
-(pdftex.def)             Requested size: 187.90271pt x 158.97444pt.
- <1_3_Plant_Bode_Manual_Control_Step.png, id=27, 451.6875pt x 376.40625pt>
-File: 1_3_Plant_Bode_Manual_Control_Step.png Graphic file (type png)
- <use 1_3_Plant_Bode_Manual_Control_Step.png>
-Package pdftex.def Info: 1_3_Plant_Bode_Manual_Control_Step.png used on input line 137.
-(pdftex.def)             Requested size: 187.90271pt x 156.59048pt.
- <2_2_PIO_Response_With_Input.png, id=28, 562.35094pt x 475.7775pt>
-File: 2_2_PIO_Response_With_Input.png Graphic file (type png)
- <use 2_2_PIO_Response_With_Input.png>
-Package pdftex.def Info: 2_2_PIO_Response_With_Input.png used on input line 150.
-(pdftex.def)             Requested size: 187.90271pt x 158.97444pt.
- <2_1_PIO_Response.png, id=29, 451.6875pt x 376.40625pt>
-File: 2_1_PIO_Response.png Graphic file (type png)
- <use 2_1_PIO_Response.png>
-Package pdftex.def Info: 2_1_PIO_Response.png used on input line 156.
-(pdftex.def)             Requested size: 187.90271pt x 156.59048pt.
- [3 <./nyquist_manual.png (PNG copy)> <./1_3_Plant_Bode_Manual_Control_Step.png (PNG copy)> <./2_2_PIO_Response_With_Input.png (PNG copy)> <./2_1_PIO_Response.png (PNG copy)>] <2_PIO_Bode_Plot.png, id=34, 947.79094pt x 475.7775pt>
-File: 2_PIO_Bode_Plot.png Graphic file (type png)
- <use 2_PIO_Bode_Plot.png>
-Package pdftex.def Info: 2_PIO_Bode_Plot.png used on input line 175.
-(pdftex.def)             Requested size: 422.77664pt x 212.22487pt.
- <2_3_F4E_Model_4_No_Input.png, id=35, 459.21562pt x 371.13657pt>
-File: 2_3_F4E_Model_4_No_Input.png Graphic file (type png)
- <use 2_3_F4E_Model_4_No_Input.png>
-Package pdftex.def Info: 2_3_F4E_Model_4_No_Input.png used on input line 184.
-(pdftex.def)             Requested size: 211.3883pt x 170.84381pt.
- <2_3_F4E_Model_4_Manual_Control.png, id=36, 451.6875pt x 376.40625pt>
-File: 2_3_F4E_Model_4_Manual_Control.png Graphic file (type png)
- <use 2_3_F4E_Model_4_Manual_Control.png>
-Package pdftex.def Info: 2_3_F4E_Model_4_Manual_Control.png used on input line 190.
-(pdftex.def)             Requested size: 211.3883pt x 176.15855pt.
- [4 <./2_PIO_Bode_Plot.png (PNG copy)> <./2_3_F4E_Model_4_No_Input.png (PNG copy)> <./2_3_F4E_Model_4_Manual_Control.png (PNG copy)>] <2_4_F4E_Model_4_Bode.png, id=41, 947.79094pt x 475.7775pt>
-File: 2_4_F4E_Model_4_Bode.png Graphic file (type png)
- <use 2_4_F4E_Model_4_Bode.png>
-Package pdftex.def Info: 2_4_F4E_Model_4_Bode.png used on input line 206.
-(pdftex.def)             Requested size: 469.75502pt x 235.81186pt.
- [5 <./2_4_F4E_Model_4_Bode.png (PNG copy)>] <2_5_unstable_aircraft_response.png, id=45, 451.6875pt x 376.40625pt>
-File: 2_5_unstable_aircraft_response.png Graphic file (type png)
- <use 2_5_unstable_aircraft_response.png>
-Package pdftex.def Info: 2_5_unstable_aircraft_response.png used on input line 222.
-(pdftex.def)             Requested size: 234.8775pt x 195.73236pt.
- <unstable_nyquist.png, id=46, 947.79094pt x 742.27313pt>
-File: unstable_nyquist.png Graphic file (type png)
- <use unstable_nyquist.png>
-Package pdftex.def Info: unstable_nyquist.png used on input line 228.
-(pdftex.def)             Requested size: 253.66812pt x 198.66087pt.
-
-Overfull \hbox (18.79062pt too wide) in paragraph at lines 228--229
- [][] 
- []
-
-<3_1_phygoid_Model_no_input.png, id=47, 451.6875pt x 376.40625pt>
-File: 3_1_phygoid_Model_no_input.png Graphic file (type png)
- <use 3_1_phygoid_Model_no_input.png>
-Package pdftex.def Info: 3_1_phygoid_Model_no_input.png used on input line 245.
-(pdftex.def)             Requested size: 211.3883pt x 176.15855pt.
- <3_2_autopilot.png, id=48, 451.6875pt x 376.40625pt>
-File: 3_2_autopilot.png Graphic file (type png)
- <use 3_2_autopilot.png>
-Package pdftex.def Info: 3_2_autopilot.png used on input line 251.
-(pdftex.def)             Requested size: 211.3883pt x 176.15855pt.
- [6 <./2_5_unstable_aircraft_response.png (PNG copy)> <./unstable_nyquist.png (PNG copy)>]
-
-LaTeX Warning: Reference `cw_25' on page 7 undefined on input line 271.
-
-<PID_control_std.png, id=54, 562.35094pt x 475.7775pt>
-File: PID_control_std.png Graphic file (type png)
- <use PID_control_std.png>
-Package pdftex.def Info: PID_control_std.png used on input line 277.
-(pdftex.def)             Requested size: 211.3883pt x 178.84444pt.
- <PID_control_40percent.png, id=55, 562.35094pt x 475.7775pt>
-File: PID_control_40percent.png Graphic file (type png)
- <use PID_control_40percent.png>
-Package pdftex.def Info: PID_control_40percent.png used on input line 283.
-(pdftex.def)             Requested size: 211.3883pt x 178.84444pt.
- [7 <./3_1_phygoid_Model_no_input.png (PNG copy)> <./3_2_autopilot.png (PNG copy)> <./PID_control_std.png (PNG copy)> <./PID_control_40percent.png (PNG copy)>] <wind_up.png, id=60, 562.35094pt x 475.7775pt>
-File: wind_up.png Graphic file (type png)
- <use wind_up.png>
-Package pdftex.def Info: wind_up.png used on input line 298.
-(pdftex.def)             Requested size: 211.3883pt x 178.84444pt.
- <wind_up_fixed.png, id=61, 562.35094pt x 475.7775pt>
-File: wind_up_fixed.png Graphic file (type png)
- <use wind_up_fixed.png>
-Package pdftex.def Info: wind_up_fixed.png used on input line 304.
-(pdftex.def)             Requested size: 211.3883pt x 178.84444pt.
- [8 <./wind_up.png (PNG copy)> <./wind_up_fixed.png (PNG copy)>] [9] (./3F1.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+] (./3F3.aux) ) 
 Here is how much of TeX's memory you used:
- 14369 strings out of 493089
- 250563 string characters out of 6134842
- 324808 words of memory out of 5000000
- 17706 multiletter control sequences out of 15000+600000
- 7326 words of font info for 27 fonts, out of 8000000 for 9000
+ 13357 strings out of 493089
+ 238280 string characters out of 6134842
+ 311808 words of memory out of 5000000
+ 16719 multiletter control sequences out of 15000+600000
+ 5751 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,9n,40p,10430b,2105s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-ti10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on 3F1.pdf (10 pages, 664472 bytes).
+ 45i,5n,40p,10430b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on 3F3.pdf (2 pages, 43143 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
+ 27 PDF objects out of 1000 (max. 8388607)
+ 18 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
