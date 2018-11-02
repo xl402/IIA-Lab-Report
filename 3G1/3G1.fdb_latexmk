@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1541166897 "3F3.tex" "3F3.pdf" "3F3" 1541166900
+["pdflatex"] 1541167022 "3G1.tex" "3G1.pdf" "3G1" 1541167026
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1136768653 1300 63a6111ee6274895728663cf4b4e7e81 ""
@@ -77,9 +77,9 @@
   "/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1432479641 1764542 91654ba72bdb667e84ea24f076ae16d8 ""
   "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1453233791 3849859 8108628725d03714145135b2926525e0 ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "3F3.aux" 1541166900 78 1cd3fadbb2476b049a2c5591b536656b ""
-  "3F3.tex" 1541166896 1219 4af13491cba31746e675d7595df1dc6f ""
+  "3G1.aux" 1541167025 78 1cd3fadbb2476b049a2c5591b536656b ""
+  "3G1.tex" 1541166896 1219 4af13491cba31746e675d7595df1dc6f ""
   (generated)
-  "3F3.log"
-  "3F3.aux"
-  "3F3.pdf"
+  "3G1.pdf"
+  "3G1.aux"
+  "3G1.log"

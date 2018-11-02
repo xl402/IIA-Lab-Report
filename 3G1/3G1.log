@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.19)  2 NOV 2018 13:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.19)  2 NOV 2018 13:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**3F3.tex
-(./3F3.tex
+**3G1.tex
+(./3G1.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
@@ -803,8 +803,8 @@ Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
 \mult@nat@firstbox=\box71
 \colbreak@box=\box72
 \mc@col@check@num=\count174
-) (./3F3.aux)
-\openout1 = `3F3.aux'.
+) (./3G1.aux)
+\openout1 = `3G1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
@@ -914,7 +914,7 @@ Package caption Info: End \AtBeginDocument code.
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [1
 
 
-] (./3F3.aux) ) 
+] (./3G1.aux) ) 
 Here is how much of TeX's memory you used:
  13357 strings out of 493089
  238280 string characters out of 6134842
@@ -924,7 +924,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  45i,5n,40p,10430b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on 3F3.pdf (2 pages, 43143 bytes).
+Output written on 3G1.pdf (2 pages, 43143 bytes).
 PDF statistics:
  27 PDF objects out of 1000 (max. 8388607)
  18 compressed objects within 1 object stream

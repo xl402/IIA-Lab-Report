@@ -2,8 +2,8 @@ PWD /Users/luxiaoding/lab_reports/3G1
 INPUT /usr/local/texlive/2015/texmf.cnf
 INPUT /usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT 3F3.tex
-OUTPUT 3F3.log
+INPUT 3G1.tex
+OUTPUT 3G1.log
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
@@ -110,9 +110,9 @@ INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/tools/multicol.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/tools/multicol.sty
-INPUT 3F3.aux
-INPUT 3F3.aux
-OUTPUT 3F3.aux
+INPUT 3G1.aux
+INPUT 3G1.aux
+OUTPUT 3G1.aux
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -141,11 +141,11 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
-OUTPUT 3F3.pdf
+OUTPUT 3G1.pdf
 INPUT /usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT 3F3.aux
+INPUT 3G1.aux
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
