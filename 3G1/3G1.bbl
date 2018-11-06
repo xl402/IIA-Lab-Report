@@ -1,0 +1,25 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Crandall(1971)]{permease}
+A.L Crandall, M;~Koch.
+\newblock \emph{Temperature-Sensitive Mutants of Escherichia Coli Affecting
+  Beta-Galactoside Transport}.
+\newblock Journal of Bacteriology. 105 (2): 609-19, 1971.
+
+\bibitem[JH(1992)]{miller}
+Miller JH.
+\newblock \emph{A Short Course In Bacterial Genetics: A Laboratory Manual And
+  Handbook For Escherichia Coli And Related Bacteria}.
+\newblock Trends in Biochemical Sciences-Library Compendium, 18:193, 1992.
+
+\bibitem[of~Engineering(2017)]{goossens93}
+Cambridge University~Department of~Engineering.
+\newblock \emph{3G1 Laboratory: Investigating the lac Operon}.
+\newblock University of Cambridge, 2017.
+
+\end{thebibliography}
