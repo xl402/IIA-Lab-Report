@@ -166,6 +166,12 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT lacl_exp.png
 INPUT ./lacl_exp.png
 INPUT ./lacl_exp.png
+INPUT all_lab.png
+INPUT ./all_lab.png
+INPUT ./all_lab.png
+INPUT all_exp.png
+INPUT ./all_exp.png
+INPUT ./all_exp.png
 INPUT 3G1.bbl
 INPUT 3G1.bbl
 INPUT 3G1.aux

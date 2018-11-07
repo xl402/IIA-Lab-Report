@@ -1,15 +1,17 @@
 # Fdb version 3
-["bibtex 3G1"] 1541548837 "3G1.aux" "3G1.bbl" "3G1" 1541548852
+["bibtex 3G1"] 1541608494 "3G1.aux" "3G1.bbl" "3G1" 1541608555
   "/usr/local/texlive/2015/texmf-dist/bibtex/bst/natbib/plainnat.bst" 1233624470 26816 ffe5423d2019860bad9f54bc402fac15 ""
-  "3G1.aux" 1541548849 1089 77083d10ca955b47340a6c0522f0f3d0 ""
+  "3G1.aux" 1541608550 1480 050b1cb868c4eee87969436ba9933c78 ""
   "3G1.bcf" 0 -1 0 ""
-  "mytestbib.bib" 1541548845 827 aea9e584ad2dd19caa569beba6310eaf ""
+  "mytestbib.bib" 1541608543 827 aea9e584ad2dd19caa569beba6310eaf ""
   (generated)
-  "3G1.blg"
   "3G1.bbl"
-["pdflatex"] 1541548838 "3G1.tex" "3G1.pdf" "3G1" 1541548852
+  "3G1.blg"
+["pdflatex"] 1541608539 "3G1.tex" "3G1.pdf" "3G1" 1541608555
+  "./all_exp.png" 1541590424 72028 f573c8c55f17218e7c294bdc35335957 ""
+  "./all_lab.png" 1541590410 64882 9d88344acf9a2ea1868a3d3694c299be ""
   "./lac.png" 1541175696 32264 a3d44cda79b64507604ffeb849d9f184 ""
-  "./lacl_exp.png" 1541547436 28960 7f3f29bf6d4e0deb0b981cde003d0d1d ""
+  "./lacl_exp.png" 1541591060 29790 fd8be1796c73fab55cbb712d16a2eb34 ""
   "./lacl_lab.png" 1541547365 29707 092ec4622d857e908d7198249f204dc9 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -98,15 +100,17 @@
   "/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1432479641 1764542 91654ba72bdb667e84ea24f076ae16d8 ""
   "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1453233791 3849859 8108628725d03714145135b2926525e0 ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "3G1.aux" 1541548849 1089 77083d10ca955b47340a6c0522f0f3d0 ""
-  "3G1.bbl" 1541548838 942 1bc15fcc21d36237e381217aaaed9cf9 "bibtex 3G1"
-  "3G1.tex" 1541548826 9119 fa926575981b7956f793fde055eab0c9 ""
+  "3G1.aux" 1541608550 1480 050b1cb868c4eee87969436ba9933c78 ""
+  "3G1.bbl" 1541608496 942 1bc15fcc21d36237e381217aaaed9cf9 "bibtex 3G1"
+  "3G1.tex" 1541608539 14699 28fbff5c79afc9e45732f16e45e904e8 ""
+  "all_exp.png" 1541590424 72028 f573c8c55f17218e7c294bdc35335957 ""
+  "all_lab.png" 1541590410 64882 9d88344acf9a2ea1868a3d3694c299be ""
   "lac.png" 1541175696 32264 a3d44cda79b64507604ffeb849d9f184 ""
-  "lacl_exp.png" 1541547436 28960 7f3f29bf6d4e0deb0b981cde003d0d1d ""
+  "lacl_exp.png" 1541591060 29790 fd8be1796c73fab55cbb712d16a2eb34 ""
   "lacl_lab.png" 1541547365 29707 092ec4622d857e908d7198249f204dc9 ""
-  "mytestbib.bib" 1541548845 827 aea9e584ad2dd19caa569beba6310eaf ""
+  "mytestbib.bib" 1541608543 827 aea9e584ad2dd19caa569beba6310eaf ""
   (generated)
+  "3G1.pdf"
   "mytestbib.bib"
   "3G1.aux"
   "3G1.log"
-  "3G1.pdf"

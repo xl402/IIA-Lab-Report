@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.19)  7 NOV 2018 00:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.19)  7 NOV 2018 16:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -955,25 +955,82 @@ File: lacl_lab.png Graphic file (type png)
  <use lacl_lab.png>
 Package pdftex.def Info: lacl_lab.png used on input line 113.
 (pdftex.def)             Requested size: 234.8775pt x 158.24278pt.
- <lacl_exp.png, id=20, 662.475pt x 444.66125pt>
+ <lacl_exp.png, id=20, 662.475pt x 448.67625pt>
 File: lacl_exp.png Graphic file (type png)
  <use lacl_exp.png>
 Package pdftex.def Info: lacl_exp.png used on input line 119.
-(pdftex.def)             Requested size: 234.8775pt x 157.6489pt.
- (./3G1.bbl [2]) [3 <./lacl_lab.png> <./lacl_exp.png>] (./3G1.aux) ) 
+(pdftex.def)             Requested size: 234.8775pt x 159.07237pt.
+
+
+./3G1.tex:131: Package inputenc Error: Unicode char \u8:β not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131 ...Z which encodes the hydrolysis enzyme, β
+                                                  -galactosidase. Thus, ther...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./3G1.tex:131: Package inputenc Error: Unicode char \u8:β not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131 ...us, there will be no expression of the β
+                                                  -galactosidase and nearly ...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<all_lab.png, id=21, 827.09pt x 536.0025pt>
+File: all_lab.png Graphic file (type png)
+ <use all_lab.png>
+Package pdftex.def Info: all_lab.png used on input line 136.
+(pdftex.def)             Requested size: 234.8775pt x 152.21432pt.
+ <all_exp.png, id=22, 846.16125pt x 536.0025pt>
+File: all_exp.png Graphic file (type png)
+ <use all_exp.png>
+Package pdftex.def Info: all_exp.png used on input line 142.
+(pdftex.def)             Requested size: 234.8775pt x 148.77925pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--149
+
+ []
+
+[2] [3 <./lacl_lab.png> <./lacl_exp.png>] (./3G1.bbl [4 <./all_lab.png> <./all_exp.png>]) [5] (./3G1.aux) ) 
 Here is how much of TeX's memory you used:
- 13442 strings out of 493089
- 239655 string characters out of 6134842
- 318635 words of memory out of 5000000
- 16784 multiletter control sequences out of 15000+600000
+ 13458 strings out of 493089
+ 239877 string characters out of 6134842
+ 326635 words of memory out of 5000000
+ 16798 multiletter control sequences out of 15000+600000
  6850 words of font info for 25 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,8n,40p,10430b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,9n,40p,10430b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 3G1.pdf (4 pages, 184368 bytes).
+Output written on 3G1.pdf (6 pages, 287486 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 70 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
