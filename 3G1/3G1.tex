@@ -106,7 +106,24 @@ The two negative feedbacks are:
 In experiment 1, with the $\Delta lacl$ strain of the bacteria, without the repressor, $\beta$-galactosidase, permease and transacetylase are all constantly expressed, therefore there is no effects of positive feedback since transcription occurs at a constant rate. However the second type of negative feedback persists as the cyclic adenosine monophosphate (cAMP) site is still active and can still influence the binding difficulty of RNA polymerase.\\
 In experiment 2, $\Delta lacY$ means no lactose permease is expressed which eliminates the first positive feedback mechanism; $\Delta laclZY$ elinimates all the feedback mechanisims.
 \section{Analysis of Results}
-
+\begin{figure}[htp]
+\centering
+\begin{subfigure}{.5\textwidth}
+  \centering
+  \includegraphics[width=1\linewidth]{lacl_lab.png}
+	\caption{from lab}
+	\label{fig:lacl_lab}
+\end{subfigure}%
+\begin{subfigure}{.5\textwidth}
+  \centering
+  \includegraphics[width=1\linewidth]{lacl_exp.png}
+  \caption{from example data}
+  \label{fig:lacl_exp}
+\end{subfigure}
+\caption{$\Delta lacl$ beta-galactosidase activity}
+\label{fig:lacl}
+\end{figure}
+Both the lab data and example data of experiment 1 is shown in figure \ref{fig:lacl}. With the strain of bacteria missing the supressor, $\beta$-galactosidase is constantly expressed. Therefore with the absence of any inducers there should still be $\beta$-galactosidase activity. This is confirmed in both the lab and experimental data. With lactose as an inducer, $\beta$-galactosidase breaks down lactose to glucose which decreases the cAMP level within the cell causing less of them to bind with the cAMP site. Therefore it is expected that less RNA polymerase binds to the promoter thereby decreasing the expression of $\beta$-galactosidase activity. This is shown in the example data but not the lab data, this may due to a number of errors within the experiment which is discussed in the conclusion. IPTG behaves in a similar way to allolactose and across both example and lab data there shows an increase in $\beta$-galactosidase activity, this behaviour is unaccounted for in our simple model of lac operon described in section 1, as IPTG does not get broken down to glucose the expected behaviour is for the $\beta$-galactosidase activity to stay the same as the control with no inducers under the absence of the repressor. With glucose as an inducer, the amount of cAMP within the cell decreases (more than using lactose as inducer), causing cAMP site to be on average less occupied thereby decreasing the transcription which results in a decrease in the activity of $\beta$-galactosidase, this behaviour is observed in both lab and example data.
 \bibliographystyle{plainnat}
 \bibliography{mytestbib}
 \end{document}
