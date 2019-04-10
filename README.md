@@ -7,8 +7,8 @@ Lab reports from the Cambridge IIA course
 
 3F3: Random variable generation and transformation 5.0
 
-3F8: Logistic regression model on 2D datapoints 
+3F8: Logistic regression model on 2D datapoints 5.0
 
 3E3: Modelling risk 4.0
 
-3G3: Coding in Visual Cortex
+3G3: Coding in Visual Cortex 4.0
